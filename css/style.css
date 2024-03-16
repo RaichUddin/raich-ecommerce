@@ -1,0 +1,23 @@
+.raich-bg {
+    background-color: #fceae8;
+}
+
+.nodi-bg {
+    background-color: #da70d6;
+}
+
+.mamun-bg {
+    background-color: #0000ff;
+}
+
+.catagories {
+    width: 100px;
+}
+
+.btn-raich {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
